@@ -1,3 +1,4 @@
 print ("Hello");
 print("By");
 print 3
+print ("Hello my dear friend")
